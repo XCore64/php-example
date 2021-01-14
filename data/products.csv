@@ -1,0 +1,9 @@
+﻿ID,NAME,UNIT_PRICE,CATEGORY_ID,IMG_URL
+1,MT2_PCB_EXP,600.99,2,https://xcore64.github.io/cis3610-mt5/img/mt2_chihiro.jpg
+2,MT3_CAB_COMPLETE_SINGLE,3800.99,3,https://xcore64.github.io/cis3610-mt5/img/mt3_cab.jpg
+3,MT4_PCB_JP,4000.32,2,https://xcore64.github.io/cis3610-mt5/img/ES1.jpg
+4,BANAPASS,6.99,1,https://xcore64.github.io/cis3610-mt5/img/banapass.png
+5,MT1_MAGNETIC_CARD_SINGLE,6.99,1,https://xcore64.github.io/cis3610-mt5/img/mt1_card.jpg
+6,MT3_MAGNETIC_CARD_PACK,25.99,1,https://xcore64.github.io/cis3610-mt5/img/mt3_card_25.jpg
+7,MT4_CD,7.99,4,https://xcore64.github.io/cis3610-mt5/img/mt4_cd.jpg
+8,MT_10YR_CD,17.99,4,https://xcore64.github.io/cis3610-mt5/img/mt_cd.jpg
